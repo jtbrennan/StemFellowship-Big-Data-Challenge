@@ -1,4 +1,4 @@
-# Stem-Fellowship-Big-Data-Challenge
+# StemFellowship-BigDataChallenge
 Founded the Data Science / Programming team. With a team of four, used Jupyter Notebook, Seaborn, and Matplotlib, to write a research paper on Renewable Energy Sources. 
 
 Applying the fundamentals of data analysis and computational thinking, investigated renewable energy prices, investments, and technological innovation to find solutions for the climate crisis.
